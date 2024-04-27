@@ -1,5 +1,4 @@
-Powered by caffeine and code.
-
+Living in a world of 1s and 0s.
 
 
 
